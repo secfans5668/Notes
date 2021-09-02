@@ -1,3 +1,3 @@
 # Hello World
-I'm new for here.
+I'm new here.
 I want to learn C/C++
